@@ -6,3 +6,13 @@
     color: white;
     background-color: black;
 }
+body {
+    background-color:black;
+}
+
+.folders{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
