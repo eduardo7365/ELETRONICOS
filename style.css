@@ -12,11 +12,13 @@ body {
 
 .folders{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
+    gap: 20px;
 
 }
 
 .folders img {
     padding: 10px;
+    padding-top: 10px;
 }
