@@ -14,14 +14,16 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
+    gap: 40px;
 
 }
 
 .folders img {
     width: 420px;
     height: 420px;
-    border: solid white 2px;
+    border: solid white 3px;
+    margin-top: 50px;
+    border-radius: 20px;
 }
 
 
