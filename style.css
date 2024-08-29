@@ -33,3 +33,19 @@ body {
     transition: 300ms ease;
     box-shadow: 3px 3px 16px #fff;
 }
+
+.forms {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    height: 50px;
+    width: 200px;
+    color: red;
+    border: none;
+    border-radius: 10px;
+
+}
