@@ -44,10 +44,18 @@ body {
 .btn {
     height: 50px;
     width: 200px;
-    color: white;
-    border: none;
-    border-radius: 25px;
-    background-color: red;
+    color: red;
+    border: red;
+    border-radius: 20px;
+    background-color: transparent;
     font-weight: bold;
     font-size: 18px;
+}
+
+.btn:hover {
+    transform: scale(1.1);
+    transition: 300ms ease;
+    background-color: red;
+    border: none;
+    color: white;
 }
