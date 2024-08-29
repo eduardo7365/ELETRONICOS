@@ -46,7 +46,8 @@ body {
     width: 200px;
     color: white;
     border: none;
-    border-radius: 10px;
+    border-radius: 25px;
     background-color: red;
     font-weight: bold;
+    font-size: 18px;
 }
